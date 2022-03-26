@@ -49,7 +49,9 @@ app.get('/gp/:gid/p/:pid', (req, res) => {
     // res.send("Hello")
 })
 
-
+app.get('/about', (req, res) => {
+    res.render('about');
+})
 const PORT = 3000;
 
 app.listen(PORT, () => {
