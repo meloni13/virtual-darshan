@@ -52,7 +52,7 @@ app.get('/gp/:gid/p/:pid', (req, res) => {
 app.get('/about', (req, res) => {
     res.render('about');
 })
-const PORT = 5500;
+const PORT = process.env.PORT || 5500;
 
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}`);
