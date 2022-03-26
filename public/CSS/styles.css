@@ -291,3 +291,45 @@ html {
   margin: auto;
   object-fit: contain;
 }
+
+
+  /* Footer */
+  footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 2%;
+  }a
+  .social-media{
+    color: white;
+
+  }
+
+.social-media i {
+  padding:1%;
+  /* color: white; */
+}
+
+.social-media a{
+  text-decoration: none;
+  color: white;
+}
+
+.copyright{
+  margin-top: 1%;
+}
+
+.fa-linkedin-in:hover{
+  color: #0e76a8 ;
+  transform: scale(1.4);
+}
+
+.fa-envelope:hover{
+  color: #BB001B ;
+  transform: scale(1.4);
+}
+
+.fa-github:hover{
+  color: white  ;
+  transform: scale(1.4);
+}
