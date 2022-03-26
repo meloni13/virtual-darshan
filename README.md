@@ -7,13 +7,17 @@
 * Ankit Sharma- asharma_b20@it.vjti.ac.in
 * Akshay Phalke- asphalke_b20@ce.vjti.ac.in
 * Abhishek Gupta- abhishek.9867.338961@gmail.com
-* Mridul Sharma- msharma_b20@it.vjti.ac.in
+* Mridul Sharma- mridulupadhaya5800@gmail.com
 * Mithilesh Kawalkar- mnkawalkar_b20@it.vjti.ac.in
 
 
 ## Description
-Our project is meant for old age people or anyone who due to corona couldn't go for pilgrimages. We are providing them a virtual darshan of those places. The special features of our project are:
-1. 360 views of those places and the sites around it.
+Our project is meant for people of any age group who due to COVID couldn't go for pilgrimages. We are providing them a virtual darshan of those places. The special features of our project are:
+1. V-DARSHAN is providing people with the real spiritual experience of visiting a temple.
+2. Using the 360 view of the places, V-DARSHAN tends to provide the maximum interactive User Interface.
+3. People can also visit famous the nearby spiritual places.
+
+
 
 
 ## Links
@@ -35,16 +39,16 @@ npm install
 ```
 This will install all the packages mentioned in the package.json. And that's it you are all good to go.
 
-## Usage
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
-
 ## Applications
->How can your project do its part in solving a real-life problem? What are its possible applications? Describe here.
+> V-DARSHAN solves the problem of those people who cannot visit their favorite pilgimages virtually at the comfort of their home.
+> The 360 view makes the UI more interactive and favorable to old-aged people.
 
 ## Future scope
->Mention ways in which the project can be improved and built upon in the future.
+> We aim to have the maximum possible vitual darshans of spiritual sites present all over the world.
+> We will also work on enhancing the UI more.
+> Using AI/ML we aim to take V-DARSHAN forward. 
 
 ## Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-![Screenshot alt text](https://img.freepik.com/free-photo/blue-purple-technology-circuit_73426-205.jpg "Here is a screenshot")
+![Home Page](https://www.linkpicture.com/q/IMG-20220326-WA0003.jpg "Home Page")
+![F-CARDS](https://www.linkpicture.com/q/IMG-20220326-WA0005.jpg "Floating Cards")
+![Exapmple](https://www.linkpicture.com/q/IMG-20220326-WA0004.jpg "Temple")
