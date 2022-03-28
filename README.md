@@ -31,6 +31,7 @@ Our project is meant for people of any age group who due to COVID couldn't go fo
 4. HTML
 5. CSS
 6. Bootstrap
+7. Mongo DB
 
 ## Project Setup
 There is not much prerequisites to run our project. The most important thing is to install the node packages. So the first thing you would do is download node from the web and set it up. Second open terminal in the folder your code is in and run the following command:
